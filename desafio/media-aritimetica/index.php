@@ -48,7 +48,7 @@
         <?php
              $ma =($valor1 + $valor2) / 2 ;
              $mp =($valor1 * $peso1  + $valor2 * $peso2) / ($peso +$peso2) ;
-?>
+            ?>
 
             <h2>Cálculo das Médias</h2>
             <p>Analisando os valores </p>
